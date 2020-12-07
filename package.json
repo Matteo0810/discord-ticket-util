@@ -1,0 +1,20 @@
+{
+  "name": "discord-ticket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exemple.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vidon123/discord-ticket-util/tree/main"
+  },
+  "keywords": [
+    "discord",
+    "ticket",
+    "discord-ticket"
+  ],
+  "author": "Vidon",
+  "license": "ISC"
+}
