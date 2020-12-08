@@ -13,7 +13,7 @@ then, you need to init the TicketManager
 ```js
 const ticketManager = new TicketManager({
     categoryID: "1455455551441",
-    ticketNameTemplate: "super-ticket-of-"
+    ticketNameTemplate: "super-ticket-of"
 });  //init the ticketManager with some option
 ```
 
