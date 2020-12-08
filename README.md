@@ -35,7 +35,7 @@ const { Client } = require('discord.js'),
 
 client.ticketManager = new TicketManager({
    categoryID: "1455455551441",
-   ticketNameTemplate: "super-ticket-of-"
+   ticketNameTemplate: "super-ticket-of"
 });
 
 client.on('message', message => {
