@@ -17,7 +17,7 @@ const ticketManager = new TicketManager({
 });  //init the ticketManager with some option
 ```
 
-finally, with you can create or delete ticket as you want
+finally, you can create or delete ticket as you want
 
 ```js
 ...
